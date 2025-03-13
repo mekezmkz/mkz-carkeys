@@ -6,6 +6,10 @@
 
 <br>
 
+## Dependencies
+- ESX
+- oxmysql
+
 ## 🇺🇸 ENGLISH
 
 ## Vehicle Key System 🚗🔑
