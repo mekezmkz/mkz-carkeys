@@ -46,5 +46,4 @@ Un semplice script per FiveM basato su ESX che permette ai giocatori di bloccare
 ## 📌 Installazione
 1. Scarica e inserisci la cartella dello script nella tua directory `resources/`.
 2. Assicurati di avere **ESX** installato sul server.
-3. **Se usi un prop personalizzato**, inserisci i file `p_car_keys_01.ytd` e `p_car_keys_01.ytf` nella cartella `stream/`.
-4. Aggiungi il nome della risorsa in `server.cfg`:
+3. Aggiungi il nome della risorsa in `server.cfg`:
