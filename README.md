@@ -25,8 +25,7 @@ A simple FiveM script based on ESX that allows players to lock/unlock their vehi
 ## 📌 Installation
 1. Download and place the script folder inside your `resources/` directory.
 2. Make sure **ESX** is installed on the server.
-3. **If using a custom key prop**, place the `p_car_keys_01.ytd` and `p_car_keys_01.ytf` files inside the `stream/` folder.
-4. Add the resource name to `server.cfg`:
+3. Add the resource name to `server.cfg`:
 
 
 
