@@ -2,7 +2,8 @@
 
 
 ## 🔗 **[YouTube - Live Preview](https://www.youtube.com/watch?v=b9Q7kJWQ258)**  
-
+## 📚 **[Documentation](https://mekez-dev.gitbook.io/mekez-dev/free-resources/carkeys)**  
+## 🗣️ **[Discord](https://discord.gg/Uuambesy3N)**  
 
 <br>
 
